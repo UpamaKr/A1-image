@@ -1,0 +1,13 @@
+das_Öl.jpg
+der_Honig.jpg
+der_Kaugummi.jpg
+der_Leberkäse.jpg
+der_Salat.png
+der_Zucker.jpg
+die_Fleischbrühe.jpg
+die_Frühlingszwiebel.jpg
+die_Gemüsebrühe.jpg
+die_Marmelade.jpg
+die_Milch.png
+die_Torte.jpg
+die_Wurst.jpg
